@@ -1,4 +1,4 @@
-## Super Fast Browser update information
+# Super Fast Browser update information
 
 This GitHub Pages site is for anyone interested in keeping up to date with all the latest changes in the Super Fast Browser project.
 This will go into detail about almost everything changed; even the little things. If not for my users to keep up to date, this will at least act as a check list for me.
@@ -40,7 +40,9 @@ Anonymous browsing mode
     
 Change the default Amazon speed dial link to .com instead of the UK version
 
+## Have suggestions?
+If there is something not listed above that is not already in Super Fast Browser that you would love to see added, send your suggestion to me [here](http://aesirapps.com/contact-me/)
 
-### Support
+## Support
 
 Having trouble with Super Fast Browser? Check out our [FAQ](http://aesirapps.com/sfb-faq/) or [contact support](https://aesirapps.com/contact-me/) and we’ll help you sort it out.
