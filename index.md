@@ -41,7 +41,7 @@ Anonymous browsing mode
 Change the default Amazon speed dial link to .com instead of the UK version
 
 ## Have suggestions?
-If there is something not listed above that is not already in Super Fast Browser that you would love to see added, send your suggestion to me [here](http://aesirapps.com/contact-me/)
+If there is something not listed above that is not already in Super Fast Browser and you would love to see added, send me your suggestion [here](http://aesirapps.com/contact-me/)
 
 ## Support
 
