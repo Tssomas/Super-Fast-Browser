@@ -3,7 +3,7 @@
 This GitHub Pages site is for anyone interested in keeping up to date with all the latest changes in the Super Fast Browser project.
 This will go into detail about almost everything changed; even the little things. If not for my users to keep up to date, this will at least act as a check list for me.
 
-You can check the [AesirApps website](http://www.aesirapps.com) to see the latest published updates, and other new projects.
+You can check the [Hydrisoft website](http://www.hydrisoft.com) to see the latest published updates, and other new projects.
 
 ## Whats new
 *Items that have a ~~strike~~ have been implemented and are ready to be published in the next update.*
@@ -42,4 +42,4 @@ Change the default Amazon speed dial link to .com instead of the UK version
 
 ## Support
 
-Having trouble with Super Fast Browser? Check out our [FAQ](http://aesirapps.com/sfb-faq/) or [contact support](https://aesirapps.com/contact-me/) and we’ll help you sort it out.
+Having trouble with Super Fast Browser? Check out our [FAQ](http://hydrisoft.com/sfb-faq/) or [contact support](https://hydrisoft.com/contact-me/) and we’ll help you sort it out.
